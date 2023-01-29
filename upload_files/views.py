@@ -15,7 +15,7 @@ def uploadFileForm(request):
         return HttpResponse("Arquivo enviado com sucesso")
 
 def contentFile():
-        openFile = open("CNAB.txt", "r")
+        openFile = open("media/CNAB.txt", "r")
         readFile = openFile.readlines()
         file= [tuple(a.split(',')) for a in readFile]
         i=0
