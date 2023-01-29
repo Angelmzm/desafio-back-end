@@ -1,6 +1,6 @@
 # desafio-back-end
 >
-Parsear este arquivo de [texto(CNAB)]() e salvar suas informações(transações financeiras) em uma base de dados com as seguintes informações: 
+Parsear este arquivo de [texto(CNAB)](https://github.com/Angelmzm/desafio-back-end/blob/main/CNAB.txt) e salvar suas informações(transações financeiras) em uma base de dados com as seguintes informações: 
 >
 -Tipo da transação
 >
